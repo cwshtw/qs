@@ -61,8 +61,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test1/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="125" column="23" lean-forward="true" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
+            <state relative-caret-position="544">
+              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,8 +137,8 @@
         <option value="$PROJECT_DIR$/qstest/admin.py" />
         <option value="$PROJECT_DIR$/qstest/models.py" />
         <option value="$PROJECT_DIR$/qstest/templates/index.html" />
-        <option value="$PROJECT_DIR$/test1/settings.py" />
         <option value="$PROJECT_DIR$/qstest/views.py" />
+        <option value="$PROJECT_DIR$/test1/settings.py" />
       </list>
     </option>
   </component>
@@ -491,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test1/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="125" column="23" lean-forward="true" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
+        <state relative-caret-position="544">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>
